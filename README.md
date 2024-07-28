@@ -14,4 +14,4 @@ This project demonstrates a QR and Barcode scanner application. The app allows u
 
 Watch the demo video to see the application in action:
 
-[Watch the demo video](https://drive.google.com/file/d/1MePj2onWjg_AMFbhOwp4AIkj_zQWOUQZ/view?usp=sharing)
+https://github.com/user-attachments/assets/b6b1ca12-8bd3-40b6-a8e8-b22d0f394932
